@@ -5,7 +5,7 @@
 // This is the "Hello world!" program, with proper style
 
 #include <iostream>
-  
+
 int main() {
-  std::cout << "Hello, World!";
+  std::cout << "Hello, world!" << std::endl;
 }
